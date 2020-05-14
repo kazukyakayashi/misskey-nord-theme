@@ -1,5 +1,5 @@
 # Misskey Nord Theme
-Theme for misskey based on Nord colors
+Theme for misskey based on Nord theme color
 
 # Use
 
@@ -11,7 +11,7 @@ Paste this on misskey.
 
 	name: 'Nord',
 	author: 'KazukyAkayashi',
-	desc: 'Theme based on Nord colors',
+	desc: 'Theme based on Nord theme color',
 
 	base: 'dark',
 
