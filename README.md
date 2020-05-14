@@ -7,9 +7,9 @@ Paste this on misskey.
 
 ```
 {
-	id: 'Nord2',
+	id: 'Nord',
 
-	name: 'Nord2',
+	name: 'Nord',
 	author: 'KazukyAkayashi',
 	desc: 'Theme based on Nord theme color',
 
