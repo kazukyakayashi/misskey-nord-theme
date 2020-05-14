@@ -1,5 +1,5 @@
 # Misskey Nord Theme
-Theme for misskey based on Nord theme color
+Theme for misskey based on [Nord theme color](https://www.nordtheme.com/#palettes-modularity).
 
 # Use
 
