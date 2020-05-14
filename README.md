@@ -34,3 +34,7 @@ Paste this on misskey.
 	},
 }
 ```
+
+#Screenshot
+
+![Nord theme](misskey_nord_theme.png)
