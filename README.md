@@ -22,7 +22,6 @@ Paste this on misskey.
 	fg: '#eceff4',
 	panel: '#3b4252',
 	header: 'rgba(46, 52, 64, 0.75)',
-	renote: '#17bf63',
 	link: '@accent',
 	mention: '@accent',
 	hashtag: '@tag',
