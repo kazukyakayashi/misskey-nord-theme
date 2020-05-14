@@ -41,4 +41,4 @@ Copy this code on misskey theme editor :
 
 # Screenshot
 
-![Nord theme](misskey_nord_theme.png)
+![Nord theme](misskey-nord-theme.png)
