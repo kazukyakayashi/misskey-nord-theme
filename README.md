@@ -3,7 +3,7 @@ Theme for misskey based on [Nord theme color](https://www.nordtheme.com/#palette
 
 # Use
 
-Paste this on misskey.
+Copy this code on misskey theme editor :
 
 ```
 {
