@@ -26,6 +26,7 @@ Paste this on misskey.
 	link: '@accent',
 	mention: '@accent',
 	hashtag: '@tag',
+	renote: '#bf616a',
 	},
 }
 ```
