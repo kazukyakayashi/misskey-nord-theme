@@ -7,9 +7,9 @@ Paste this on misskey.
 
 ```
 {
-	id: 'Nord',
+	id: 'Nord2',
 
-	name: 'Nord',
+	name: 'Nord2',
 	author: 'KazukyAkayashi',
 	desc: 'Theme based on Nord theme color',
 
@@ -27,6 +27,10 @@ Paste this on misskey.
 	mention: '@accent',
 	hashtag: '@tag',
 	renote: '#bf616a',
+	pageBg: '@bg',
+	badge:'#bf616a',
+	divider:'rgba(46, 52, 64, 0.7)',
+	driveFolderBg:'@panel',
 	},
 }
 ```
