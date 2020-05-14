@@ -35,6 +35,6 @@ Paste this on misskey.
 }
 ```
 
-#Screenshot
+# Screenshot
 
 ![Nord theme](misskey_nord_theme.png)
