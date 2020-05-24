@@ -17,7 +17,6 @@ Copy this code on misskey theme editor :
 
 	props: {
 	accent: '#8fbcbb',
-	tag:'#a3be8c',
 	bg: '#2e3440',
 	fg: '#eceff4',
 	fgHighlighted: '@link',
@@ -29,7 +28,7 @@ Copy this code on misskey theme editor :
 	header: 'rgba(59, 66, 82, 0.75)',
 	link: '#b48ead',
 	mention: '#bf616a',
-	hashtag: '@tag',
+	hashtag: 'a3be8c',
 	renote: '#d08770',
 	pageBg: '@bg',
 	badge: '#a3be8c',
