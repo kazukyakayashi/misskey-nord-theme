@@ -28,7 +28,7 @@ Copy this code on misskey theme editor :
 	header: 'rgba(59, 66, 82, 0.75)',
 	link: '#b48ead',
 	mention: '#bf616a',
-	hashtag: 'a3be8c',
+	hashtag: '#a3be8c',
 	renote: '#d08770',
 	pageBg: '@bg',
 	badge: '#a3be8c',
