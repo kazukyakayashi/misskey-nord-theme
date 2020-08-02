@@ -2,9 +2,9 @@
 Theme for misskey based on [Nord theme color](https://www.nordtheme.com/#palettes-modularity).
 
 # Use
+Copy this code on misskey theme editor.
 
 # Dark
-Copy this code on misskey theme editor :
 
 ```
 {
