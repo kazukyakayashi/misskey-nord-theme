@@ -8,34 +8,38 @@ Copy this code on misskey theme editor.
 
 ```
 {
-	id: 'Nord',
+	id: '5de572f1-608f-4e8b-9e48-62a519f0c7aa',
 
 	name: 'Nord',
-	author: 'KazukyAkayashi',
+	author: '@kazukyakayashi@meow.zarchbox.fr',
 	desc: 'Theme based on Nord theme color',
 
 	base: 'dark',
 
-	props: {
+props: {
 	accent: '#8fbcbb',
 	bg: '#2e3440',
 	fg: '#eceff4',
-	fgHighlighted: '@link',
+	fgHighlighted: '@accent',
 	panel: '#3b4252',
 	navBg: '#3b4252',
 	navFg: '@fg',
 	navHoverFg: '@accent',
 	navActive: '@accent',
-	navIndicator: '@accent',
-	header: 'rgba(59, 66, 82, 0.75)',
+	navIndicator: '#bf616a',
+	indicator: '#bf616a',
+	header: 'rgba(46, 52, 64, 0.50)',
 	link: '#b48ead',
 	mention: '#bf616a',
 	hashtag: '#a3be8c',
 	renote: '#d08770',
+	cwFg: '#eceff4',
 	pageBg: '@bg',
 	badge: '#a3be8c',
-	divider: 'rgba(46, 52, 64, 0.7)',
+	divider: 'rgba(46, 52, 64, 0.5)',
 	driveFolderBg: '@panel',
+	infoWarnBg: '#ebcb8b',
+	infoWarnFg: '#2e3440',
 	},
 }
 ```
