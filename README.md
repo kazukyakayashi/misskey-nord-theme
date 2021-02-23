@@ -1,10 +1,10 @@
 # Misskey Nord Theme
 Theme for misskey based on [Nord theme color](https://www.nordtheme.com/#palettes-modularity).
 
-# Use
+## Use
 Copy this code on misskey theme editor.
 
-# Dark
+## Dark
 
 ```
 {
@@ -44,14 +44,14 @@ props: {
 }
 ```
 
-# Light 
+## Light 
 
 ```
 {
-	id: 'hJiu4Kl394Vdf',
+	id: 'a99c9ac9-e23d-4770-934f-16419dfdd6c1',
 
 	name: 'Light Nord',
-	author: 'KazukyAkayashi',
+	author: '@kazukyakayashi@meow.zarchbox.fr',
 	desc: 'Theme based on Nord theme color',
 
 	base: 'light',
@@ -60,7 +60,7 @@ props: {
 	accent: '#5e81ac',
 	bg: '#d8dee9',
 	fg: '#2e3440',
-	fgHighlighted: '@link',
+	fgHighlighted: '@accent',
 	panel: '#e5e9f0',
 	navBg: '#e5e9f0',
 	navFg: '#2e3440',
@@ -76,10 +76,16 @@ props: {
 	badge: '#d08770',
 	divider: 'rgba(216, 222, 233, 0.7)',
 	driveFolderBg: '@panel',
+	infoWarnBg: '#ebcb8b',
+	infoWarnFg: '#2e3440',
 	},
 }
 ```
 
-# Screenshot
+## Screenshot
 
+Dark theme
 ![Dark Nord theme](misskey-nord-theme.png)
+
+Light theme
+![Light Nord theme](nord-light.png)
