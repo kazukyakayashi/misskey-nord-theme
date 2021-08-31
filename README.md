@@ -28,7 +28,7 @@ props: {
 	navActive: '@accent',
 	navIndicator: '#bf616a',
 	indicator: '#bf616a',
-	header: 'rgba(46, 52, 64, 0.50)',
+	header: 'rgba(46, 52, 64, 0.75)',
 	link: '#b48ead',
 	mention: '#bf616a',
 	hashtag: '#a3be8c',
@@ -79,6 +79,15 @@ props: {
 	infoWarnBg: '#ebcb8b',
 	infoWarnFg: '#2e3440',
 	},
+}
+```
+
+## In Stylus or Misskey CSS editor
+
+```
+/* bg for link preview */
+.mk-url-preview > a > article {
+    background-color: #343a4a;
 }
 ```
 
